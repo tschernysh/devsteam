@@ -1,0 +1,19 @@
+.gallery{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center; 
+}
+.pages__btn{
+    font-size: 15px;
+    margin: 30px;
+}
+.pages__btn span{
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+.active__page{
+    color: rgb(0, 4, 255);
+    font-weight: bold;
+    font-size: 20px;
+}

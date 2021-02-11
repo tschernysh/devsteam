@@ -1,0 +1,9 @@
+.single__block {
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+    height: 90vh;
+}
+.single__block img {
+    width: 100%;
+}
